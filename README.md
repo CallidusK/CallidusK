@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Kushaldeep</h1>
+<h1 align="center">Hey, I'm Calli</h1>
 <h3 align="center">Engineering Student · Backend & AI Enthusiast</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ### About Me
 
-I'm an engineering student at **Thapar Institute of Engineering & Technology (ECED)**, focused on backend engineering, AI-powered applications, and 3D computer vision. My background started in C, and I'm now building toward a Python-first stack for backend and AI systems :)
+I'm an engineering student at **Thapar Institute of Engineering & Technology**, focused on backend engineering, AI-powered applications, and 3D computer vision. My background started in C, and I'm now building toward a Python-first stack for backend and AI systems :)
 
 - Currently building a Foveated Semantic 2.5D LiDAR Mapping pipeline for Smart India Hackathon
 - Currently deepening Python, FastAPI, DSA in C++, and Operating Systems
@@ -25,7 +25,7 @@ Building a real-time Foveated Semantic 2.5D LiDAR Mapping pipeline as part of a 
 
 **[View the repo →](https://github.com/CallidusK/SIH26053)**
 
-**My role — Person 1: Data & Pose Subsystem**
+**My role — Data & Pose Subsystem**
 
 | Responsibility | Details |
 |---|---|
