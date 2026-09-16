@@ -10,7 +10,7 @@
 
 ### About Me
 
-I'm an engineering student at **Thapar Institute of Engineering & Technology (ECED)**, focused on backend engineering, AI-powered applications, and 3D computer vision. My background started in C, and I'm now building toward a Python-first stack for backend and AI systems :)
+I'm an engineering student at **Thapar Institute of Engineering & Technology**, focused on backend engineering, AI-powered applications, and 3D computer vision. My background started in C, and I'm now building toward a Python-first stack for backend and AI systems :)
 
 - Currently building a Foveated Semantic 2.5D LiDAR Mapping pipeline for Smart India Hackathon
 - Currently deepening Python, FastAPI, DSA in C++, and Operating Systems
