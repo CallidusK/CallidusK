@@ -121,33 +121,6 @@ Systems
 
 ---
 
-## 🎯 2026 Goals
-
-- [ ] Strengthen Python fundamentals
-- [ ] Build production-style APIs with FastAPI
-- [ ] Learn databases (PostgreSQL) properly
-- [ ] Ship backend projects end-to-end
-- [ ] Integrate LLM APIs / RAG into backend applications
-- [ ] Strengthen DSA in C++
-- [ ] Continue the LiDAR / 3D perception project through completion
-- [ ] Deploy at least one meaningful project publicly
-- [ ] Contribute to open source
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CallidusK&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallidusK&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CallidusK&theme=radical&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🤝 Connect
 
 <p>
