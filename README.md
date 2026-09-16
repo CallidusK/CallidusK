@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Building+backend+systems+with+Python+%2B+FastAPI;Working+on+LiDAR+%2F+3D+Perception+pipelines;Learning+DSA+in+C%2B%2B%2C+one+pattern+at+a+time;Aiming+to+ship+AI-integrated+backend+products" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/CallidusK"><img src="https://img.shields.io/github/followers/CallidusK?label=Follow&style=social" /></a>
-  <img src="https://komarev.com/ghpvc/?username=CallidusK&color=BB86FC&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ### 🧭 About Me
