@@ -1,16 +1,15 @@
-<h1 align="center">Calli</h1>
+<h1 align="center">I'm Calli</h1>
 <h3 align="center">Backend & AI Enthusiast</h3>
-<p align="center"><i>Building things that break less than they used to</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Building+backend+systems+with+Python+%2B+FastAPI;Working+on+LiDAR+%2F+3D+Perception+pipelines;Learning+DSA+in+C%2B%2B%2C+one+pattern+at+a+time;Aiming+to+ship+AI-integrated+backend+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Building+things+that+break+less+than+they+used+to;Building+backend+systems+with+Python+%2B+FastAPI;Working+on+LiDAR+%2F+3D+Perception+pipelines;Learning+DSA+in+C%2B%2B%2C+one+pattern+at+a+time" alt="Typing SVG" />
 </p>
 
 ---
 
 ### About Me
 
-I'm an engineering student at **Thapar Institute of Engineering & Technology**, focused on backend engineering, AI-powered applications, and 3D computer vision. My background started in C, and I'm now building toward a Python-first stack for backend and AI systems :)
+I'm an engineering student at **Thapar Institute of Engineering & Technology (ECED)**, focused on backend engineering, AI-powered applications, and 3D computer vision. My background started in C, and I'm now building toward a Python-first stack for backend and AI systems :)
 
 - Currently building a Foveated Semantic 2.5D LiDAR Mapping pipeline for Smart India Hackathon
 - Currently deepening Python, FastAPI, DSA in C++, and Operating Systems
@@ -18,7 +17,7 @@ I'm an engineering student at **Thapar Institute of Engineering & Technology**, 
 
 ---
 
-## </> Featured Project
+## 🚀 Featured Project
 
 ### Foveated Semantic 2.5D LiDAR Mapping — Smart India Hackathon
 
