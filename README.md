@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Kushaldeep 👋</h1>
+<h1 align="center">Hey, I'm Calli 👋</h1>
 <h3 align="center">Engineering Student · Backend & AI Enthusiast · Building at the edge of Perception and Systems</h3>
 
 <p align="center">
